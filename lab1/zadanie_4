@@ -1,0 +1,26 @@
+#!/bin/bash 
+
+cd ~/lab1/cherubi4
+cat cherrim 2>/dev/null | wc -l 'cherrim' 2>/dev/null>> ~/lab1/lines 
+cat butterfree 2>/dev/null | wc -l 'butterfree' 2>/dev/null >> ~/lab1/lines 
+cat golem 2>/dev/null | wc -l 'golem' 2>/dev/null >> ~/lab1/lines 
+cat hariyama 2>/dev/null | wc -l 'hariyama' 2>/dev/null >> ~/lab1/lines 
+cat roserade 2>/dev/null | wc -l 'roserade' 2>/dev/null >> ~/lab1/lines
+cat ~/lab1/lines | sort -rk1
+rm  ~/lab1/lines
+
+cd ~/lab1
+ls -lRS . 2>/dev/null | grep -v '^d' | grep '^.* b' | sort -k 6 -n
+
+cd ~/lab1
+grep -nrh '.*' m* | sort -k1.3
+
+cd ~/lab1
+cat cherubi4/butterfree cherubi4/golem cherubi4/hariyama patrat9/metang patrat9/meganium patrat9/electivire patrat9/sunflora purrlion2/electabuzz purrlion2/weepinbell purrlion2/kirlia 2>/tmp/s | wc -c > /tmp/count
+cat /tmp/count
+
+cd ~/lab1
+ls -lRS . 2>/dev/null | grep -v '^d' | grep 	'2$' | sort -rk 5 -n | head -n 3
+
+cd ~/lab1/cherubi4
+ls -Rl . 2>/dev/null | grep -v '^d' | grep -v '^t' | grep -v '^\.' | sort -rk6,7

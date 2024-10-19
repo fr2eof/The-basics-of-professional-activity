@@ -1,0 +1,11 @@
+override ------r-- s412952/studs uarch for /home/studs/s412952/lab1/ninjask2?
+rm: /home/studs/s412952/lab1/purrloin2/ledyba: Permission denied
+override ---r--rw- s412952/studs uarch for /home/studs/s412952/lab1/purrloin2/bellsproutpidgey?
+rmdir: /home/studs/s412952/lab1/cherubi4/masquerain: Permission denied
+rm: /home/studs/s412952/lab1/cherubi4/cherrim: Permission denied
+rm: /home/studs/s412952/lab1/cherubi4/hariyama: Permission denied
+rm: /home/studs/s412952/lab1/cherubi4/roserade: Permission denied
+rm: /home/studs/s412952/lab1/cherubi4/butterfree: Permission denied
+rm: /home/studs/s412952/lab1/cherubi4/masquerain: Permission denied
+rm: /home/studs/s412952/lab1/cherubi4/golem: Permission denied
+

@@ -1,0 +1,23 @@
+#!/bin/bash
+cd ~/lab1
+chmod 751 cherubi4
+ln -s ~/lab1/cherubi4 ~/lab1/Copy_48
+chmod 446 pidgey5
+cp pidgey5 ~/lab1/purrloin2/venomoth
+chmod 713 ~/lab1/purrloin2
+cat pidgey5 >> ~/lab1/purrloin2/weepinbellpidgey
+ln -s ~/lab1/ninjask2 ~/lab1/patrat9/sunfloraninjask
+ln pidgey5 ~/lab1/purrloin2/bellsproutpidgey
+chmod 711 patrat9
+cd ~/lab1/patrat9
+chmod 724 pelipper
+chmod 464 sunflora
+cp -R ~/lab1/patrat9 pelipper
+cat ~/lab1/purrloin2/weepinbell ~/lab1/cherubi4/cherrim >> ~/lab1/pidgey5_19
+
+chmod 551 ~/lab1/cherubi4
+chmod 046 ~/lab1/pidgey5
+chmod 513 ~/lab1/purrloin2
+chmod 524 pelipper
+chmod 064 sunflora
+chmod 311 ~/lab1/patrat9

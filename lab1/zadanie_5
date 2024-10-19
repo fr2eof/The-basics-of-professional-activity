@@ -1,0 +1,11 @@
+#!/bin/bash
+chmod 204 ~/lab1/ninjask2
+rm ~/lab1/ninjask2
+chmod u+w ~/lab1/purrloin2
+rm ~/lab1/purrloin2/ledyba
+rm -f ~/lab1/patrat9/sunfloraninjask
+rm -f ~/lab1/purrloin2/bellsproutpidgey
+chmod u+w ~/lab1/cherubi4
+rmdir ~/lab1/cherubi4/masquerain
+rm -rdf ~/lab1/cherubi4
+

@@ -1,0 +1,67 @@
+#!/bin/bash 
+if [ ! -d ~/lab1 ]; then
+    mkdir lab1
+fi
+cd lab1
+mkdir cherubi4
+touch murkrow1
+echo "Тип Диеты
+Omnivore" >> murkrow1
+touch ninjask2
+echo "Способности Swarm Mach Speed Speed Boost
+Steadfast" >> ninjask2
+mkdir patrat9
+touch pidgey5
+echo "Способности Last Chance Mach Speed Keen Eye Tangled
+Feet" >> pidgey5
+mkdir purrloin2
+
+cd cherubi4
+touch cherrim
+echo "Способности Overgrow Flower Gift Pick Up" >> cherrim
+touch roserade
+echo "cпособности Leaf Guard Technician" >> roserade
+touch butterfree
+echo "Возможности Overland=2
+Sky=10 Jump=3 Power=3 Intelligence=4 Sinker=0" >> butterfree
+touch golem
+echo "Тип покемона
+ROCK GROUND" >> golem
+mkdir masquerain
+touch hariyama
+echo "satk=4 sdef=6 spd=5" >> hariyama
+
+cd ../
+cd patrat9
+touch metang
+echo "Живет Cave" >> metang
+touch meganium
+echo "weigth=221.6 height=71.0 atk=8
+def=10" >> meganium
+mkdir blastoise
+touch electivire
+echo "Ходы Body Slam Counter Covet Double-Edge Fire
+Punch!= Focus Punch Helping Hand Ice Punch Iron Tail Low Kick!= Magnet
+Rise Mega Kick Mega Punch Mud-Slap Rock Climb Seismic Toss Signal Beam
+Sleep Talk Snore Swift Thunderpunch Uproar" >> electivire
+touch sunflora
+echo "satk=11 sdef=9
+spd=3" >> sunflora
+mkdir pelipper
+
+cd ../
+cd purrloin2
+touch electabuzz
+echo "Тип диеты Ergovore Omnivore" >> electabuzz
+mkdir venomoth
+touch weepinbell
+echo "Тип диеты
+Canivore Phototroph" >> weepinbell
+touch kirlia
+echo "Возможности Overland=7 Surface=4 Jump=2
+Power=1 Intelligence=5 Telekinetic=0
+Telepath=0" >> kirlia
+touch bellsprout
+echo "Способности Overgrow Venom Chlorophyll" >> bellsprout
+touch ledyba
+echo "Способности Swarm Mach Speed Early Bird Frisk" >> ledyba

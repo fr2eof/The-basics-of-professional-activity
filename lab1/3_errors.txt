@@ -1,0 +1,4 @@
+cp: pidgey5: Permission denied
+zadanie_3: строка 5: /home/studs/s412952/lab1/purrloin2/weepinbellpidgey: Permission denied
+ln: /home/studs/s412952/lab1/purrloin2/bellsproutpidgey: Permission denied
+cp: /home/studs/s412952/lab1/patrat9/pelipper/patrat9: Permission denied

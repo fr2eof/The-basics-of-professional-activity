@@ -1,0 +1,31 @@
+#!/bin/bash
+cd ~/lab1
+
+chmod 551 cherubi4
+
+chmod 640 cherubi4/cherrim
+chmod 044 cherubi4/roserade
+chmod 620 cherubi4/butterfree
+chmod 400 cherubi4/golem
+chmod 305 cherubi4/masquerain
+chmod 404 cherubi4/hariyama
+
+chmod 660 murkrow1
+chmod 004 ninjask2
+
+chmod 604 patrat9/metang
+chmod 640 patrat9/meganium
+chmod 737 patrat9/blastoise
+chmod 404 patrat9/electivire
+chmod 064 patrat9/sunflora
+chmod 524 patrat9/pelipper
+chmod 311 patrat9
+
+chmod 046 pidgey5
+chmod 513 purrloin2
+chmod 644 purrloin2/electabuzz
+chmod 770 purrloin2/venomoth
+chmod 600 purrloin2/weepinbell
+chmod 444 purrloin2/kirlia
+chmod 620 purrloin2/bellsprout
+chmod 640 purrloin2/ledyba

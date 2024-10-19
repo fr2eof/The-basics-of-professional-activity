@@ -1,0 +1,5 @@
+chmod 204 ~/lab1/ninjask2
+chmod u+w ~/lab1/purrloin2
+chmod u+w ~/lab1/cherubi4
+rmdir ~/lab1/cherubi4/masquerain
+rm -rdf ~/lab1/cherubi4
